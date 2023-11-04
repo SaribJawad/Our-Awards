@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Neutral Face";
+  font-family: Neutral Face;
   src: url(./NeutralFace.woff2);
 }
 
@@ -13,7 +13,7 @@
 }
 body {
   overflow-x: hidden;
-  font-family: "Neutral Face";
+  font-family: Neutral Face;
   text-transform: uppercase;
   background-color: red;
   color: black;
